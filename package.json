@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.3.2",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-plain-loader": "^1.0.0",
     "three": "^0.110.0",
     "three-collada-loader": "^0.0.1",
